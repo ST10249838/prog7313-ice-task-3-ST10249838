@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "620753665807",
+    "project_id": "firebasics-8476c",
+    "storage_bucket": "firebasics-8476c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620753665807:android:d5e4a3d82f416b444fc87a",
+        "android_client_info": {
+          "package_name": "com.st10249838.ice3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSO4YNQwR4Bj5ITS9kiTjV3N7HPd3N27k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
